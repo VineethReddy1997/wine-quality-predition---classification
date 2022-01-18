@@ -28,6 +28,7 @@ Output variable (based on sensory data): \
 
 # Libraries
 
+<li>numpy
 <li>pandas
 <li>matplotlib
 <li>seaborn
@@ -36,11 +37,10 @@ Output variable (based on sensory data): \
     
     
  # Future Work 
-    
+<li>Handling missing values    
 <li>Removing Outliers
 <li>Removing Attributes
-<li>Hyperparameter Tuning
-<li>Random UnderSampling
+<li>Random oveerSampling
 
 # Algorithms
 
